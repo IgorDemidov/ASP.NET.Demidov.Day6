@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BookStorage.Task1.Library")]
+[assembly: AssemblyTitle("Books.Library")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BookStorage.Task1.Library")]
+[assembly: AssemblyProduct("Books.Library")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("37384718-b548-4c16-9a11-3cbd56f200ba")]
+[assembly: Guid("4eeec913-30f7-4bf8-96c9-aba4c41cda3a")]
 
 // Version information for an assembly consists of the following four values:
 //

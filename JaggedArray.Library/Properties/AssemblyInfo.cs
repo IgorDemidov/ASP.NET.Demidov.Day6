@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("JaggeArraySorter.Task1.Library")]
+[assembly: AssemblyTitle("JaggedArray.Library")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("JaggeArraySorter.Task1.Library")]
+[assembly: AssemblyProduct("JaggedArray.Library")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a69b6bcc-df33-4bba-b455-3c609d302fea")]
+[assembly: Guid("52bb9d28-9ada-4e04-bd05-c0988aff59df")]
 
 // Version information for an assembly consists of the following four values:
 //
