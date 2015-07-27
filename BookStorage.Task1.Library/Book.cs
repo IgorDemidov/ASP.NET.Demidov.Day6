@@ -8,6 +8,7 @@ namespace BookStorage.Task1.Library
 {
     public class Book : IEquatable<Book>, IComparable<Book>
     {
+
         #region Properties
 
         public string Author { get; set; }
@@ -82,10 +83,6 @@ namespace BookStorage.Task1.Library
         }
 
         #endregion
-
-
-
-
-        
+ 
     }
 }
