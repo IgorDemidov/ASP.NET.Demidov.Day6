@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JaggedArraySorter.Task1.Library
+namespace JaggedArray.Library
 {   
-    public static class JaggedArray
+    public static class JaggedArraySorter
     {
         public static void Sort(int[][] jaggedArray, IRowComparer comparer)
         {
