@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2545235A-01AA-4C63-B455-CDF7F394BDCA}</ProjectGuid>
+    <ProjectGuid>{C9E37C83-8B90-4B17-8DFC-7004891AE610}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JaggedArray.Test</RootNamespace>
-    <AssemblyName>JaggedArray.Test</AssemblyName>
+    <RootNamespace>Nod.Test</RootNamespace>
+    <AssemblyName>Nod.Test</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -50,13 +50,13 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="JaggedArraySorterTest.cs" />
+    <Compile Include="NodCalcTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JaggedArray.Library\JaggedArray.Library.csproj">
-      <Project>{930fd85b-596d-4b83-85c6-07cec9253640}</Project>
-      <Name>JaggedArray.Library</Name>
+    <ProjectReference Include="..\Nod.Library\Nod.Library.csproj">
+      <Project>{0ee062fc-a3ea-4a21-a2ce-8bcdf65cc93a}</Project>
+      <Name>Nod.Library</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
