@@ -78,7 +78,7 @@ namespace BookStorage.Task1.Library
 
         public int CompareTo(Book other)
         {
-            return this.Title.CompareTo(this.Title);
+            return this.Title.CompareTo(other.Title);
         }
 
         #endregion
