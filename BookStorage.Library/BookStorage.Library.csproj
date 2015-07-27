@@ -7,8 +7,8 @@
     <ProjectGuid>{3EBE83A7-140E-442A-A8DD-CC011F6D5D3A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BookStorage.Task1.Library</RootNamespace>
-    <AssemblyName>BookStorage.Task1.Library</AssemblyName>
+    <RootNamespace>BookStorage.Library</RootNamespace>
+    <AssemblyName>BookStorage.Library</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

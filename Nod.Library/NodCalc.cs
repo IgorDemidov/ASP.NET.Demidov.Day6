@@ -5,10 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 
-namespace Nod.Task3.Library
+namespace Nod.Library
 {
-    
-
     public static class NodCalc
     {
         #region Delegates
