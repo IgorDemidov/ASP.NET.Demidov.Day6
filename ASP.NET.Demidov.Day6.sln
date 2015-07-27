@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nod.Library", "Nod.Library\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Books.Library", "Books.Library\Books.Library.csproj", "{0FA35CA3-C958-4004-9BE5-3E91B5F16192}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Books", "Books", "{5D318D2F-A52B-41E1-83F7-5E9D84D9F12C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JaggedArray", "JaggedArray", "{4CF8F508-7230-4587-B33B-B010E7F0C1B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nod", "Nod", "{E3927A38-5389-476C-B559-93F3066230E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +36,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FA35CA3-C958-4004-9BE5-3E91B5F16192} = {5D318D2F-A52B-41E1-83F7-5E9D84D9F12C}
+		{930FD85B-596D-4B83-85C6-07CEC9253640} = {4CF8F508-7230-4587-B33B-B010E7F0C1B4}
+		{0EE062FC-A3EA-4A21-A2CE-8BCDF65CC93A} = {E3927A38-5389-476C-B559-93F3066230E6}
 	EndGlobalSection
 EndGlobal
