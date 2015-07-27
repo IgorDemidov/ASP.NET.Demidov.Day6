@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArraySorter.Task1.Lib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArraySorter.Task1.UTest", "JaggedArraySorter.Task1.UTest\JaggedArraySorter.Task1.UTest.csproj", "{391BE6C0-95B5-4540-ABA3-25AAE1DD276C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStorage.Task1.Library", "BookStorage.Task1.Library\BookStorage.Task1.Library.csproj", "{3EBE83A7-140E-442A-A8DD-CC011F6D5D3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{391BE6C0-95B5-4540-ABA3-25AAE1DD276C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{391BE6C0-95B5-4540-ABA3-25AAE1DD276C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{391BE6C0-95B5-4540-ABA3-25AAE1DD276C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBE83A7-140E-442A-A8DD-CC011F6D5D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBE83A7-140E-442A-A8DD-CC011F6D5D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBE83A7-140E-442A-A8DD-CC011F6D5D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBE83A7-140E-442A-A8DD-CC011F6D5D3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
